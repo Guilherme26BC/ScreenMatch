@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "Anora",
+    "LaunchDate": 2024,
+    "Inclueded": true,
+    "Rating": 0.0,
+    "TotalRating": 0,
+    "Time": "139 min",
+    "DurationMinutes": 0,
+    "Contador": 0
+  },
+  {
+    "Name": "Wicked",
+    "LaunchDate": 2024,
+    "Inclueded": true,
+    "Rating": 0.0,
+    "TotalRating": 0,
+    "Time": "160 min",
+    "DurationMinutes": 0,
+    "Contador": 0
+  },
+  {
+    "Name": "The Greatest Showman",
+    "LaunchDate": 2017,
+    "Inclueded": true,
+    "Rating": 0.0,
+    "TotalRating": 0,
+    "Time": "105 min",
+    "DurationMinutes": 0,
+    "Contador": 0
+  }
+]
